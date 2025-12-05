@@ -30,13 +30,13 @@ const socialLinks = [
   {
     icon: Instagram,
     label: "Instagram",
-    href: "#",
+    href: "https://www.instagram.com/charlespekpv/?hl=en",
     color: "hover:bg-[#e4405f]",
   },
   {
     icon: Mail,
     label: "Email",
-    href: "#",
+    href: "mailto:charlespekpv@gmail.com",
     color: "hover:bg-[#ea4335]",
   },
 ];
